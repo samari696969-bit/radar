@@ -2,3 +2,5 @@ fastapi
 uvicorn
 httpx
 beautifulsoup4
+pytesseract
+pillow
